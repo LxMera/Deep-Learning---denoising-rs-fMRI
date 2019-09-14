@@ -1,0 +1,2 @@
+# Deep-Learning---denoising-rs-fMRI
+Se implementan nuevas herramientas para la eliminación de ruido automático mediante redes de aprendizaje profundo sobre imágenes de rs-fMRI partiendo de las series de tiempo de la descomposición mediante el análisis de componentes independientes, determinando cuales de las series tienen características de tipo neuronal y cuales corresponden a ruido de cualquier naturaleza. Las cuatro redes neuronales artificiales basadas en arquitecturas MLP lograron una precisión cercana al 80%. 
