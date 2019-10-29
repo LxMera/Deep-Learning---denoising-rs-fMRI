@@ -1,3 +1,7 @@
 # Deep learning architectures for the classification of independent components of rs-fMRI
 ### Deep-Learning---denoising-rs-fMRI
+
+Leonel Mera Jiménez and John F. Ochoa Gómez
+Grupo de investigación en Bioinstrumentación e Ingeniería Clínica, Facultad de Ingeniería, Universidad de Antioquia, Medellín, Colombia.
+
 At present, functional magnetic resonance imaging at rest (rs-fMRI) is one of the tools of greatest interest in neurosciences due to the advantages presented over other methodologies for acquiring brain activity. However, there is a long way to go in terms of the artifacts cleaning necessary to increase the signal-to-noise ratio in the images. Therefore, to give a contribution to the new cleaning methods on rs-fMRI images, in this investigation four deep learning network architectures for the classification of neuronal activity and noise are studied, using 27 temporal spectrum characteristics of the independent components of rs-fMRI images of two groups of healthy subjects. The study allowed to find four architectures with classification accuracy close to 97% and the number of characteristics necessary for the identification of the components associated to noise and neuronal activity were reduced to five, these being the low-frequency fluctuation amplitude (ALFF) in the bands from 0.01 to 0.027 Hz and from 0.027 to 0.073 Hz, the fractional low-frequency amplitude in the same 2 bands and a jump amplitude function. 
