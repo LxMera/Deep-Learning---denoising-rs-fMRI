@@ -1,5 +1,5 @@
 # Deep learning architectures for the classification of independent components of rs-fMRI
-### Deep-Learning---denoising-rs-fMRI
+### Deep Learning / denoising rs-fMRI
 
 Leonel Mera Jiménez and John F. Ochoa Gómez
 Grupo de investigación en Bioinstrumentación e Ingeniería Clínica, Facultad de Ingeniería, Universidad de Antioquia, Medellín, Colombia.
